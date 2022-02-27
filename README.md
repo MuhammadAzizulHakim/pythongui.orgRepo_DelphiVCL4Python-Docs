@@ -1,2 +1,2 @@
-# pythongui.org Repo: DelphiVCL4Python Documentations
+# pythongui.org Repo: DelphiVCL4Python Docs
 Code repository for my articles on pythongui.org, about DelphiVCL4Python documentations. 
