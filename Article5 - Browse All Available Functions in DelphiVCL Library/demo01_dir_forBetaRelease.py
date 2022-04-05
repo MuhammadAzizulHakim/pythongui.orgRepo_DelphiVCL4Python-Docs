@@ -1,0 +1,3 @@
+import DelphiVCL
+ 
+dir(DelphiVCL)
