@@ -10,4 +10,6 @@ Here is the list of published articles:
 
 4. [Tutorial: Learn How To Install DelphiVCL And Build Windows Apps With Python](https://pythongui.org/tutorial-learn-how-to-install-delphivcl-and-build-windows-apps-with-python/)
 
+5. [Quickly Browse All Available Functions in DelphiVCL Library For Python Windows Apps](https://pythongui.org/quickly-browse-all-available-functions-in-delphivcl-library-for-python-windows-apps/)
+
 Powered by [Embarcadero Delphi](https://www.embarcadero.com/products/delphi), [DelphiVCL4Python](https://github.com/Embarcadero/DelphiVCL4Python), and the [Python4Delphi library](https://github.com/pyscripter/python4delphi).
