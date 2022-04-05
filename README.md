@@ -8,4 +8,6 @@ Here is the list of published articles:
 
 3. [Most Important Benefits Of DelphiVCL For Python Over Other Competing Technologies](https://pythongui.org/most-important-benefits-of-delphivcl-for-python-over-other-competing-technologies/)
 
+4. [Tutorial: Learn How To Install DelphiVCL And Build Windows Apps With Python](https://pythongui.org/tutorial-learn-how-to-install-delphivcl-and-build-windows-apps-with-python/)
+
 Powered by [Embarcadero Delphi](https://www.embarcadero.com/products/delphi), [DelphiVCL4Python](https://github.com/Embarcadero/DelphiVCL4Python), and the [Python4Delphi library](https://github.com/pyscripter/python4delphi).
