@@ -12,4 +12,6 @@ Here is the list of published articles:
 
 5. [Quickly Browse All Available Functions in DelphiVCL Library For Python Windows Apps](https://pythongui.org/quickly-browse-all-available-functions-in-delphivcl-library-for-python-windows-apps/)
 
+6. [Getting Started with DelphiVCL: Simple Windows Form Example In Python](https://pythongui.org/getting-started-with-delphivcl-simple-windows-form-example-in-python/)
+
 Powered by [Embarcadero Delphi](https://www.embarcadero.com/products/delphi), [DelphiVCL4Python](https://github.com/Embarcadero/DelphiVCL4Python), and the [Python4Delphi library](https://github.com/pyscripter/python4delphi).
