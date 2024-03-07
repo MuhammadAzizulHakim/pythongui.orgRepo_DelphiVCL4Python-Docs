@@ -1,0 +1,9 @@
+pip install delphivcl
+
+C:\Users\YourUsername\AppData\LocalPrograms\Python\Python39\Lib\site-packages
+
+C:\Users\YourUsername\Anaconda3\Lib\site-packages\DelphiVCL
+
+pip install -i https://test.pypi.org/simple/ DelphiVCL-lucioricVCL
+
+python.exe delphiVCLSample.py
