@@ -1,0 +1,5 @@
+C:\Users\YourUsername\AppData\Local\Programs\Python\Python39\Lib\site-packages
+
+C:\Users\YourUsername\Anaconda3\Lib\site-packages\DelphiVCL 
+
+pip install delphivcl
