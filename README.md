@@ -14,4 +14,6 @@ Here is the list of published articles:
 
 6. [Getting Started with DelphiVCL: Simple Windows Form Example In Python](https://pythongui.org/getting-started-with-delphivcl-simple-windows-form-example-in-python/)
 
+7. [Python: Getting Started with DelphiVCL II: Breakdown The Form Components](https://pythongui.org/python-getting-started-with-delphivcl-ii-breakdown-the-form-components/)
+
 Powered by [Embarcadero Delphi](https://www.embarcadero.com/products/delphi), [DelphiVCL4Python](https://github.com/Embarcadero/DelphiVCL4Python), and the [Python4Delphi library](https://github.com/pyscripter/python4delphi).
