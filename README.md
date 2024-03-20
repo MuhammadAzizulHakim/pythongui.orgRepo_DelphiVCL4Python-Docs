@@ -16,4 +16,6 @@ Here is the list of published articles:
 
 7. [Python: Getting Started with DelphiVCL II: Breakdown The Form Components](https://pythongui.org/python-getting-started-with-delphivcl-ii-breakdown-the-form-components/)
 
+8. [Python: Getting Started with DelphiVCL III: Overview of Commonly Used VCL Components](https://pythongui.org/python-getting-started-with-delphivcl-iii-overview-of-commonly-used-vcl-components/)
+
 Powered by [Embarcadero Delphi](https://www.embarcadero.com/products/delphi), [DelphiVCL4Python](https://github.com/Embarcadero/DelphiVCL4Python), and the [Python4Delphi library](https://github.com/pyscripter/python4delphi).
