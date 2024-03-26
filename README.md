@@ -22,4 +22,6 @@ Here is the list of published articles:
 
 10. [Discover Available DelphiVCL.Form Methods, Properties, and Events!](https://pythongui.org/discover-available-delphivcl-form-methods-properties-and-events/)
 
+11. Notes for Advanced Users: [What is The Delphi VCL For Python And Why Is It So Good?](https://pythongui.org/what-is-the-delphi-vcl-for-python-and-why-is-it-so-good/)
+
 Powered by [Embarcadero Delphi](https://www.embarcadero.com/products/delphi), [DelphiVCL4Python](https://github.com/Embarcadero/DelphiVCL4Python), and the [Python4Delphi library](https://github.com/pyscripter/python4delphi).
