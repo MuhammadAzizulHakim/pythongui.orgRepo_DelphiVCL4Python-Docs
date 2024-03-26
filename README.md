@@ -20,6 +20,6 @@ Here is the list of published articles:
 
 9. [Compare DelphiVCL With Python GUI Frameworks Like Tkinter For Windows](https://pythongui.org/compare-delphivcl-with-python-gui-frameworks-like-tkinter-for-windows/)
 
-10. [Python: Getting Started with DelphiVCL III: Overview of Commonly Used VCL Components](https://pythongui.org/python-getting-started-with-delphivcl-iii-overview-of-commonly-used-vcl-components/)
+10. [Discover Available DelphiVCL.Form Methods, Properties, and Events!](https://pythongui.org/discover-available-delphivcl-form-methods-properties-and-events/)
 
 Powered by [Embarcadero Delphi](https://www.embarcadero.com/products/delphi), [DelphiVCL4Python](https://github.com/Embarcadero/DelphiVCL4Python), and the [Python4Delphi library](https://github.com/pyscripter/python4delphi).
