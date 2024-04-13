@@ -24,4 +24,6 @@ Here is the list of published articles:
 
 11. Notes for Advanced Users: [What is The Delphi VCL For Python And Why Is It So Good?](https://pythongui.org/what-is-the-delphi-vcl-for-python-and-why-is-it-so-good/)
 
+12. [Create a Very Basic Empty Form using delphivcl.Form](https://pythongui.org/create-a-very-basic-empty-form-using-delphivcl-form/)
+
 Powered by [Embarcadero Delphi](https://www.embarcadero.com/products/delphi), [DelphiVCL4Python](https://github.com/Embarcadero/DelphiVCL4Python), and the [Python4Delphi library](https://github.com/pyscripter/python4delphi).
