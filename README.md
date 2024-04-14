@@ -28,4 +28,6 @@ Here is the list of published articles:
 
 13. [Decipher the delphivcl.Application](https://pythongui.org/decipher-the-delphivcl-application/)
 
+14. [Create a Specific Component using delphivcl.CreateComponent](https://pythongui.org/create-a-specific-component-using-delphivcl-createcomponent/)
+
 Powered by [Embarcadero Delphi](https://www.embarcadero.com/products/delphi), [DelphiVCL4Python](https://github.com/Embarcadero/DelphiVCL4Python), and the [Python4Delphi library](https://github.com/pyscripter/python4delphi).
