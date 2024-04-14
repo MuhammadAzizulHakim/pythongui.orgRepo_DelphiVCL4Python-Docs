@@ -26,4 +26,6 @@ Here is the list of published articles:
 
 12. [Create a Very Basic Empty Form using delphivcl.Form](https://pythongui.org/create-a-very-basic-empty-form-using-delphivcl-form/)
 
+13. [Decipher the delphivcl.Application](https://pythongui.org/decipher-the-delphivcl-application/)
+
 Powered by [Embarcadero Delphi](https://www.embarcadero.com/products/delphi), [DelphiVCL4Python](https://github.com/Embarcadero/DelphiVCL4Python), and the [Python4Delphi library](https://github.com/pyscripter/python4delphi).
