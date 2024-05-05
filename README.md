@@ -24,9 +24,9 @@ Here is the list of published articles:
 
 11. Notes for Advanced Users: [What is The Delphi VCL For Python And Why Is It So Good?](https://pythongui.org/what-is-the-delphi-vcl-for-python-and-why-is-it-so-good/)
 
-12. [Create a Very Basic Empty Form using delphivcl.Form](https://pythongui.org/create-a-very-basic-empty-form-using-delphivcl-form/)
+12. Create a Very Basic Empty Form using [delphivcl.Form](https://pythongui.org/create-a-very-basic-empty-form-using-delphivcl-form/)
 
-13. [Decipher the delphivcl.Application](https://pythongui.org/decipher-the-delphivcl-application/)
+13. Decipher the [delphivcl.Application](https://pythongui.org/decipher-the-delphivcl-application/)
 
 14. Create a Specific Component using [delphivcl.CreateComponent](https://pythongui.org/create-a-specific-component-using-delphivcl-createcomponent/)
 
