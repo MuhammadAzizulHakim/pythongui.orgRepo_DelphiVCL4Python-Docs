@@ -3,6 +3,7 @@ This is a code repository for my articles on [pythongui.org](https://pythongui.o
 
 Here is the list of published articles: 
 <h3>Introduction</h3>
+
 1. [Introduction to DelphiVCL](https://pythongui.org/introduction-to-delphivcl/)
 
 2. [An Introduction To DelphiVCL: A Python GUI Builder For Windows](https://pythongui.org/an-introduction-to-delphivcl-a-python-gui-builder-for-windows/)
@@ -26,6 +27,7 @@ Here is the list of published articles:
 11. Notes for Advanced Users: [What is The Delphi VCL For Python And Why Is It So Good?](https://pythongui.org/what-is-the-delphi-vcl-for-python-and-why-is-it-so-good/)
 
 <h3>DelphiVCL4Python API references</h3>
+
 12. Create a Very Basic Empty Form using [delphivcl.Form](https://pythongui.org/create-a-very-basic-empty-form-using-delphivcl-form/)
 
 13. Decipher the [delphivcl.Application](https://pythongui.org/decipher-the-delphivcl-application/)
