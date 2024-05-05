@@ -30,6 +30,6 @@ Here is the list of published articles:
 
 14. [Create a Specific Component using delphivcl.CreateComponent](https://pythongui.org/create-a-specific-component-using-delphivcl-createcomponent/)
 
-15. [Create a Main Panel using delphivcl.Panel or TPanel](https://pythongui.org/create-a-main-panel-using-delphivcl-panel-or-tpanel/)
+15. Create a Main Panel using [delphivcl.Panel](https://pythongui.org/create-a-main-panel-using-delphivcl-panel-or-tpanel/) or TPanel
 
 Powered by [Embarcadero Delphi](https://www.embarcadero.com/products/delphi), [DelphiVCL4Python](https://github.com/Embarcadero/DelphiVCL4Python), and the [Python4Delphi library](https://github.com/pyscripter/python4delphi).
