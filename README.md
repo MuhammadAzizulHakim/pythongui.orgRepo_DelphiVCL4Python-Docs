@@ -28,7 +28,7 @@ Here is the list of published articles:
 
 13. [Decipher the delphivcl.Application](https://pythongui.org/decipher-the-delphivcl-application/)
 
-14. [Create a Specific Component using delphivcl.CreateComponent](https://pythongui.org/create-a-specific-component-using-delphivcl-createcomponent/)
+14. Create a Specific Component using [delphivcl.CreateComponent](https://pythongui.org/create-a-specific-component-using-delphivcl-createcomponent/)
 
 15. Create a Main Panel using [delphivcl.Panel](https://pythongui.org/create-a-main-panel-using-delphivcl-panel-or-tpanel/) or TPanel
 
