@@ -38,4 +38,6 @@ Here is the list of published articles:
 
 16. Using [delphivcl.PageControl](https://pythongui.org/using-delphivcl-pagecontrol-to-create-a-multiple-page/) to Create a Multiple Page
 
+17. Using [delphivcl.TabSheet](https://pythongui.org/using-delphivcl-tabsheet-to-create-a-tabbed-page/) to Create a Tabbed Page
+
 Powered by [Embarcadero Delphi](https://www.embarcadero.com/products/delphi), [DelphiVCL4Python](https://github.com/Embarcadero/DelphiVCL4Python), and the [Python4Delphi library](https://github.com/pyscripter/python4delphi).
