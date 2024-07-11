@@ -40,4 +40,6 @@ Here is the list of published articles:
 
 17. Using [delphivcl.TabSheet](https://pythongui.org/using-delphivcl-tabsheet-to-create-a-tabbed-page/) to Create a Tabbed Page
 
+18. Display Text on a Form using [delphivcl.Label](https://pythongui.org/display-text-on-a-form-using-delphivcl-label-or-tlabel/) or TLabel
+
 Powered by [Embarcadero Delphi](https://www.embarcadero.com/products/delphi), [DelphiVCL4Python](https://github.com/Embarcadero/DelphiVCL4Python), and the [Python4Delphi library](https://github.com/pyscripter/python4delphi).
