@@ -42,4 +42,6 @@ Here is the list of published articles:
 
 18. Display Text on a Form using [delphivcl.Label](https://pythongui.org/display-text-on-a-form-using-delphivcl-label-or-tlabel/) or TLabel
 
+19. Create an Edit Controls using [delphivcl.Edit](https://pythongui.org/create-an-edit-controls-using-delphivcl-edit-or-tedit/) or TEdit
+
 Powered by [Embarcadero Delphi](https://www.embarcadero.com/products/delphi), [DelphiVCL4Python](https://github.com/Embarcadero/DelphiVCL4Python), and the [Python4Delphi library](https://github.com/pyscripter/python4delphi).
