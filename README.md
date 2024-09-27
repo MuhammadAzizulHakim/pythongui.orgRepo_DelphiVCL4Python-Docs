@@ -44,4 +44,6 @@ Here is the list of published articles:
 
 19. Create an Edit Controls using [delphivcl.Edit](https://pythongui.org/create-an-edit-controls-using-delphivcl-edit-or-tedit/) or TEdit
 
+20. Create a CheckBox using [delphivcl.CheckBox](https://pythongui.org/create-a-checkbox-using-delphivcl-checkbox/)
+
 Powered by [Embarcadero Delphi](https://www.embarcadero.com/products/delphi), [DelphiVCL4Python](https://github.com/Embarcadero/DelphiVCL4Python), and the [Python4Delphi library](https://github.com/pyscripter/python4delphi).
