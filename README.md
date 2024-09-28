@@ -46,4 +46,6 @@ Here is the list of published articles:
 
 20. Create a CheckBox using [delphivcl.CheckBox](https://pythongui.org/create-a-checkbox-using-delphivcl-checkbox/)
 
+21. Create a ListBox using [delphivcl.ListBox](https://pythongui.org/create-a-listbox-using-delphivcl-listbox/)
+
 Powered by [Embarcadero Delphi](https://www.embarcadero.com/products/delphi), [DelphiVCL4Python](https://github.com/Embarcadero/DelphiVCL4Python), and the [Python4Delphi library](https://github.com/pyscripter/python4delphi).
