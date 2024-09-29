@@ -48,4 +48,8 @@ Here is the list of published articles:
 
 21. Create a ListBox using [delphivcl.ListBox](https://pythongui.org/create-a-listbox-using-delphivcl-listbox/)
 
+22. Create a ComboBox using [delphivcl.ComboBox](https://pythongui.org/create-a-combobox-using-delphivcl-combobox/)
+
+23. Learn about [delphivcl.RadioGroup](https://pythongui.org/learn-about-delphivcl-radiogroup/)
+
 Powered by [Embarcadero Delphi](https://www.embarcadero.com/products/delphi), [DelphiVCL4Python](https://github.com/Embarcadero/DelphiVCL4Python), and the [Python4Delphi library](https://github.com/pyscripter/python4delphi).
