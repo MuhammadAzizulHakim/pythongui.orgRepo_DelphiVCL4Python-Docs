@@ -22,10 +22,14 @@ class MainForm(Form):
         pgOne.PageControl = pgConMain
         pgOne.Caption = "Tab 1"
 
-        # Draw a rectangle
-        shpRectangle = Shape(pgOne)
-        shpRectangle.SetProps(Parent=pgOne,Shape = 'stRectangle')
-        shpRectangle.SetBounds(5,15,300,300)
+        # Combo box creation
+        cbxCity = ComboBox(pgOne)
+        cbxCity.SetProps(Parent=pgOne,Name='ComboBox')
+        cbxCity.SetBounds(145,206,121,60)
+        cbxCity.Items.Add('New York')
+        cbxCity.Items.Add('Sydney')
+        cbxCity.Items.Add('Bangalore')
+        cbxCity.Items.Add('Tokyo')
 
 # Initialize your application
 def main():
