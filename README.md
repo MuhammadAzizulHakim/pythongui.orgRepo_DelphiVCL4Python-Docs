@@ -58,4 +58,12 @@ Here is the list of published articles:
 
 26. Python Windows App: Draw A Rectangle With [delphivcl.Shape](https://pythongui.org/python-windows-app-draw-a-rectangle-with-delphivcl-shape/)
 
+27. Add Strings to Various Components using [.Items](https://pythongui.org/add-strings-to-various-components-using-items/)
+
+28. Specify Component’s Boundary Properties using [.SetBounds](https://pythongui.org/specify-components-boundary-properties-using-setbounds/)
+
+29. Specify Component’s Height Properties using [.Height](https://pythongui.org/specify-components-height-properties-using-height/)
+
+30. Specify Component’s Left Properties using [.Left](https://pythongui.org/specify-components-left-properties-using-left/)
+
 Powered by [Embarcadero Delphi](https://www.embarcadero.com/products/delphi), [DelphiVCL4Python](https://github.com/Embarcadero/DelphiVCL4Python), and the [Python4Delphi library](https://github.com/pyscripter/python4delphi).
