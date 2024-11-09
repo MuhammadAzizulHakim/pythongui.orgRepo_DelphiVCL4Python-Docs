@@ -52,4 +52,10 @@ Here is the list of published articles:
 
 23. Learn about [delphivcl.RadioGroup](https://pythongui.org/learn-about-delphivcl-radiogroup/)
 
+24. Learn Buttons Using [delphivcl.Button](https://pythongui.org/learn-buttons-using-delphivcl-button/)
+
+25. Create a Multiline Edit Control on a Form using [delphivcl.Memo](https://pythongui.org/create-a-multiline-edit-control-on-a-form-using-delphivcl-memo/)
+
+26. Python Windows App: Draw A Rectangle With [delphivcl.Shape](https://pythongui.org/python-windows-app-draw-a-rectangle-with-delphivcl-shape/)
+
 Powered by [Embarcadero Delphi](https://www.embarcadero.com/products/delphi), [DelphiVCL4Python](https://github.com/Embarcadero/DelphiVCL4Python), and the [Python4Delphi library](https://github.com/pyscripter/python4delphi).
