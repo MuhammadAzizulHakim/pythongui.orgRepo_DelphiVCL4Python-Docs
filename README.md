@@ -126,4 +126,24 @@ Here is the list of published articles:
 
 60. How to use the [delphivcl.DrawGrid.Col](https://pythongui.org/how-to-use-the-delphivcl-drawgrid-col/)
 
+61. How to use the [delphivcl.DrawGrid.Row](https://pythongui.org/how-to-use-the-delphivcl-drawgrid-row/)
+
+62. How To Set The Work Area’s Sphere Of Influence Using [Rect](https://pythongui.org/how-to-set-the-work-areas-sphere-of-influence-using-rect/)
+
+63. How to use the [State](https://pythongui.org/how-to-use-the-state-property/) Property
+
+64. How to use the [CanSelect](https://pythongui.org/how-to-use-the-canselect-parameter/) Parameter
+
+65. How To Use The [Action](https://pythongui.org/how-to-use-the-action-parameter-in-delphivcl-windows-development/) Parameter In DelphiVCL4Python Windows Development
+
+66. How To Use The [Value](https://pythongui.org/how-to-use-the-value-property-for-actions-and-parameters/) Property For Actions and Parameters
+
+67. [ActionList](https://pythongui.org/actionlist-in-delphivcl/) in DelphiVCL4Python
+
+68. How to use the [delphivcl.FreeConsole](https://pythongui.org/how-to-use-the-delphivcl-freeconsole/)
+
+69. Specify the Alignment of a Control using [Align](https://pythongui.org/specify-the-alignment-of-a-control-using-align-or-talign/) or TAlign
+
+70. Learn About [delphivcl.Graphic](https://pythongui.org/learn-about-delphivcl-graphic/)
+
 Powered by [Embarcadero Delphi](https://www.embarcadero.com/products/delphi), [DelphiVCL4Python](https://github.com/Embarcadero/DelphiVCL4Python), and the [Python4Delphi library](https://github.com/pyscripter/python4delphi).
