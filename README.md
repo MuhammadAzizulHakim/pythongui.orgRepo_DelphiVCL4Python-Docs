@@ -66,4 +66,30 @@ Here is the list of published articles:
 
 30. Specify Component’s Left Properties using [.Left](https://pythongui.org/specify-components-left-properties-using-left/)
 
+31. Specify Component’s Top Properties using [.Top](https://pythongui.org/specify-components-top-properties-using-top/)
+
+32. Specify Component’s Width Properties using [.Width](https://pythongui.org/specify-components-width-properties-using-width/)
+
+33. Adding Set Properties to VCL Components using [.SetProps](https://pythongui.org/adding-set-properties-to-vcl-components-using-setprops/)
+
+34. Entering Dates Or Times Using [delphivcl.DateTimePicker](https://pythongui.org/entering-dates-or-times-using-delphivcl-datetimepicker-or-tdatetimepicker-in-python/) Or TDateTimePicker In Python
+
+35. delphivcl.Strings
+Published title: Store And Manipulate Strings With delphivcl.Strings Or TStrings In Python
+
+36. Lists of All Available DelphiVCL4Python's Shape
+Published title: Discover DelphiVCL4Python’s Available Shapes
+
+37. delphivcl.Canvas
+Published title: Create A Drawing Space Using delphivcl.Canvas
+
+38. delphivcl.DrawGrid
+Published title: Create a Tabular Format with delphivcl.DrawGrid
+
+39. delphivcl.ColorBox
+Published title: Python GUI: Create A ComboBox To Select A Color With delphivcl.ColorBox
+
+40. Lists of All Available DelphiVCL4Python's Color
+Published title: Discover DelphiVCL4Python’s Available Colors
+
 Powered by [Embarcadero Delphi](https://www.embarcadero.com/products/delphi), [DelphiVCL4Python](https://github.com/Embarcadero/DelphiVCL4Python), and the [Python4Delphi library](https://github.com/pyscripter/python4delphi).
