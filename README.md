@@ -86,4 +86,24 @@ Here is the list of published articles:
 
 40. Discover [DelphiVCL4Python’s Available Colors](https://pythongui.org/discover-delphi-vcls-available-colors/)
 
+41. Fill Solid Shapes With [.Brush](https://pythongui.org/fill-solid-shapes-with-brush/)
+
+42. Learn ColorBoxStyles from [delphivcl.ColorBox](https://pythongui.org/learn-colorboxstyles-from-delphivcl-colorbox/)
+
+43. [OnClick](https://pythongui.org/onclick-event-in-delphivcl-library/) Event in DelphiVCL4Python Library
+
+44. [OnDblClick](https://pythongui.org/ondblclick-event-in-delphivcl-library/) Event in DelphiVCL4Python Library
+
+45. [OnChange](https://pythongui.org/onchange-event-in-delphivcl-library/) Event in DelphiVCL4Python Library
+
+46. [OnDrawCell](https://pythongui.org/ondrawcell-event-in-delphivcl-library/) Event in DelphiVCL4Python Library
+
+47. [OnSelectCell](https://pythongui.org/onselectcell-event-in-delphivcl-library/) Event in DelphiVCL4Python Library
+
+48. [OnClose](https://pythongui.org/onclose-event-in-delphivcl-library/) Event in DelphiVCL4Python Library
+
+49. Write a String inside a Clipping Rectangle using [TextRect](https://pythongui.org/write-a-string-inside-a-clipping-rectangle-using-textrect/)
+
+50. How to use the [Parent](https://pythongui.org/how-to-use-the-parent-property/) Property
+
 Powered by [Embarcadero Delphi](https://www.embarcadero.com/products/delphi), [DelphiVCL4Python](https://github.com/Embarcadero/DelphiVCL4Python), and the [Python4Delphi library](https://github.com/pyscripter/python4delphi).
