@@ -74,22 +74,16 @@ Here is the list of published articles:
 
 34. Entering Dates Or Times Using [delphivcl.DateTimePicker](https://pythongui.org/entering-dates-or-times-using-delphivcl-datetimepicker-or-tdatetimepicker-in-python/) Or TDateTimePicker In Python
 
-35. delphivcl.Strings
-Published title: Store And Manipulate Strings With delphivcl.Strings Or TStrings In Python
+35. Store And Manipulate Strings With [delphivcl.Strings](https://pythongui.org/store-and-manipulate-strings-with-delphivcl-strings-or-tstrings-in-python/) Or TStrings In Python
 
-36. Lists of All Available DelphiVCL4Python's Shape
-Published title: Discover DelphiVCL4Python’s Available Shapes
+36. Discover [DelphiVCL4Python’s Available Shapes](https://pythongui.org/discover-delphi-vcls-available-shapes/)
 
-37. delphivcl.Canvas
-Published title: Create A Drawing Space Using delphivcl.Canvas
+37. Create A Drawing Space Using [delphivcl.Canvas](https://pythongui.org/create-a-drawing-space-using-delphivcl-canvas/)
 
-38. delphivcl.DrawGrid
-Published title: Create a Tabular Format with delphivcl.DrawGrid
+38. Create a Tabular Format with [delphivcl.DrawGrid](https://pythongui.org/create-a-tabular-format-with-delphivcl-drawgrid/)
 
-39. delphivcl.ColorBox
-Published title: Python GUI: Create A ComboBox To Select A Color With delphivcl.ColorBox
+39. Python GUI: Create A ComboBox To Select A Color With [delphivcl.ColorBox](https://pythongui.org/python-gui-create-a-combobox-to-select-a-color-with-delphivcl-colorbox/)
 
-40. Lists of All Available DelphiVCL4Python's Color
-Published title: Discover DelphiVCL4Python’s Available Colors
+40. Discover [DelphiVCL4Python’s Available Colors](https://pythongui.org/discover-delphi-vcls-available-colors/)
 
 Powered by [Embarcadero Delphi](https://www.embarcadero.com/products/delphi), [DelphiVCL4Python](https://github.com/Embarcadero/DelphiVCL4Python), and the [Python4Delphi library](https://github.com/pyscripter/python4delphi).
