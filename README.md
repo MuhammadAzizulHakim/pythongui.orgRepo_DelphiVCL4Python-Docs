@@ -167,4 +167,24 @@ Published title: Learn About [delphivcl.Abort](https://pythongui.org/learn-about
 
 80. Learn about [delphivcl.BasicAction](https://pythongui.org/learn-about-delphivcl-basicaction/)
 
+81. Learn About [delphivcl.Bevel](https://pythongui.org/learn-about-delphivcl-bevel/)
+
+82. [delphivcl.BoundLabel](https://pythongui.org/delphivcl-boundlabel-and-its-differences-with-delphivcl-label/) and Its Differences with delphivcl.Label
+
+83. Learn about [delphivcl.Collection](https://pythongui.org/learn-about-delphivcl-collection/)
+
+84. Learn about the [delphivcl.Component](https://pythongui.org/learn-about-the-delphivcl-component-as-the-common-ancestor-of-all-component-classes/) as the Common Ancestor of All Component Classes
+
+85. How To Automatically Manage the [Layout of Toolbar Components](https://pythongui.org/how-to-automatically-manage-the-layout-of-toolbar-components/)
+
+86. Manages a Set of Actions using [delphivcl.CustomActionList](https://pythongui.org/manages-a-set-of-actions-using-delphivcl-customactionlist/)
+
+87. Learn about [delphivcl.CustomControl](https://pythongui.org/learn-about-delphivcl-customcontrol/)
+
+88. Learn about [delphivcl.CustomDrawGrid](https://pythongui.org/learn-about-delphivcl-customdrawgrid/)
+
+89. Understanding DelphiVCL4Python [__init__](https://pythongui.org/understanding-delphivcl-__init__-for-windows-app-development/) For Windows App Development
+
+90. This Is How Python’s [self](https://pythongui.org/this-is-how-pythons-self-works-in-windows-development/) Works In Windows Development
+
 Powered by [Embarcadero Delphi](https://www.embarcadero.com/products/delphi), [DelphiVCL4Python](https://github.com/Embarcadero/DelphiVCL4Python), and the [Python4Delphi library](https://github.com/pyscripter/python4delphi).
