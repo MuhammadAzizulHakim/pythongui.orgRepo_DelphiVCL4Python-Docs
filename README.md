@@ -187,4 +187,25 @@ Published title: Learn About [delphivcl.Abort](https://pythongui.org/learn-about
 
 90. This Is How Python’s [self](https://pythongui.org/this-is-how-pythons-self-works-in-windows-development/) Works In Windows Development
 
+91. Understanding Python’s [main()](https://pythongui.org/understanding-pythons-main-for-gui-development-with-delphivcl/) for GUI Development with DelphiVCL4Python
+
+92. What Are The [Built-In Function Objects](https://pythongui.org/what-are-the-built-in-function-objects-inside-delphivcl/) Inside DelphiVCL4Python?
+
+93. Changes to All Available ModalResult Constants and Values at XE2 Release
+Status: Deleted
+
+94. Learn About [TWinControl](https://pythongui.org/learn-about-twincontrol-for-gui-development-with-delphivcl/) For GUI Development With DelphiVCL4Python
+
+95. Learn About [delphivcl.CustomEdit](https://pythongui.org/learn-about-delphivcl-customedit/)
+
+96. Learn About [delphivcl.CustomForm](https://pythongui.org/learn-about-delphivcl-customform/)
+
+97. Learn About [delphivcl.CustomGrid](https://pythongui.org/learn-about-delphivcl-customgrid/)
+
+98. Learn About [delphivcl.CustomMemo](https://pythongui.org/how-to-use-the-delphivcl-custommemo/)
+
+99. Learn About [delphivcl.GroupBox](https://pythongui.org/how-to-use-the-delphivcl-groupbox/)
+
+100. Learn About [delphivcl.Header](https://pythongui.org/how-to-use-the-delphivcl-header/)
+
 Powered by [Embarcadero Delphi](https://www.embarcadero.com/products/delphi), [DelphiVCL4Python](https://github.com/Embarcadero/DelphiVCL4Python), and the [Python4Delphi library](https://github.com/pyscripter/python4delphi).
