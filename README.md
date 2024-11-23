@@ -146,4 +146,25 @@ Here is the list of published articles:
 
 70. Learn About [delphivcl.Graphic](https://pythongui.org/learn-about-delphivcl-graphic/)
 
+71. Learn About [delphivcl.Control](https://pythongui.org/learn-about-delphivcl-control/)
+
+72. How To Make Text [Align](https://pythongui.org/how-to-make-text-align-the-way-you-want-it-to/) The Way You Want It To
+
+73. What Is A [delphivcl.BitBtn](https://pythongui.org/what-is-a-delphivcl-bitbtn-and-why-would-i-use-it/) And Why Would I Use It?
+
+74. Browse All Available Functions in [delphivcl.Bitmap](https://pythongui.org/browse-all-available-functions-in-delphivcl-bitmap/)
+
+75. delphivcl.Abort
+Published title: Learn About [delphivcl.Abort](https://pythongui.org/learn-about-delphivcl-abort-function/) Function
+
+76. Lists of All Available [BitBtnKind](https://pythongui.org/lists-of-all-available-bitbtnkind/)
+
+77. Lists of All Available [ModalResult](https://pythongui.org/lists-of-all-available-modalresult-constants-and-values/) Constants and Values
+
+78. Lists of All Available [MsgDlgButtons](https://pythongui.org/lists-of-all-available-msgdlgbuttons/)
+
+79. Learn about [delphivcl.Application.MessageBox](https://pythongui.org/learn-about-delphivcl-application-messagebox/)
+
+80. Learn about [delphivcl.BasicAction](https://pythongui.org/learn-about-delphivcl-basicaction/)
+
 Powered by [Embarcadero Delphi](https://www.embarcadero.com/products/delphi), [DelphiVCL4Python](https://github.com/Embarcadero/DelphiVCL4Python), and the [Python4Delphi library](https://github.com/pyscripter/python4delphi).
