@@ -212,4 +212,10 @@ Status: Deleted
 
 102. 7 [Built-In Function Objects](https://docs.google.com/document/d/1k4fxvxOBrc2Tx2gkNloXhY9lRBOByG6pkhVn_BZ0EXA/edit?tab=t.0) Inside The DelphiVCL4Python Library
 
+103. Learn About [delphivcl.Image](https://pythongui.org/learn-about-delphivcl-image/)
+
+104. Learn About [delphivcl.LabeledEdit](https://pythongui.org/learn-about-delphivcl-labelededit/)
+
+105. Learn About [delphivcl.Metafile](https://pythongui.org/learn-about-delphivcl-metafile/)
+
 Powered by [Embarcadero Delphi](https://www.embarcadero.com/products/delphi), [DelphiVCL4Python](https://github.com/Embarcadero/DelphiVCL4Python), and the [Python4Delphi library](https://github.com/pyscripter/python4delphi).
