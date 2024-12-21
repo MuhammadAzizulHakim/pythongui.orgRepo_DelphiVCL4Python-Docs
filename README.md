@@ -208,4 +208,8 @@ Status: Deleted
 
 100. Learn About [delphivcl.Header](https://pythongui.org/how-to-use-the-delphivcl-header/)
 
+101. How to use the [delphivcl.Icon](https://pythongui.org/how-to-use-the-delphivcl-icon/)
+
+102. 7 [Built-In Function Objects](https://docs.google.com/document/d/1k4fxvxOBrc2Tx2gkNloXhY9lRBOByG6pkhVn_BZ0EXA/edit?tab=t.0) Inside The DelphiVCL4Python Library
+
 Powered by [Embarcadero Delphi](https://www.embarcadero.com/products/delphi), [DelphiVCL4Python](https://github.com/Embarcadero/DelphiVCL4Python), and the [Python4Delphi library](https://github.com/pyscripter/python4delphi).
