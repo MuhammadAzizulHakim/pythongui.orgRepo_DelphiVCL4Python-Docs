@@ -232,4 +232,10 @@ Status: Deleted
 
 112. More On [Built-In Function Objects](https://pythongui.org/more-on-built-in-function-objects-inside-delphivcl-library-part-3/) Inside DelphiVCL4Python Library (Part 3)
 
+113. What Is A [delphivcl.PaintBox](https://pythongui.org/what-is-a-delphivcl-paintbox-and-how-does-it-work/) And How Does It Work?
+
+114. Learn About [delphivcl.Persistent](https://pythongui.org/learn-about-delphivcl-persistent/)
+
+115. What Is [delphivcl.Picture](https://pythongui.org/what-is-delphivcl-picture-used-for-in-windows-development/) Used For In Windows Development?
+
 Powered by [Embarcadero Delphi](https://www.embarcadero.com/products/delphi), [DelphiVCL4Python](https://github.com/Embarcadero/DelphiVCL4Python), and the [Python4Delphi library](https://github.com/pyscripter/python4delphi).
