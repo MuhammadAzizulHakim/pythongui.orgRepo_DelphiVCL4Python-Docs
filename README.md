@@ -228,4 +228,8 @@ Status: Deleted
 
 110. Learn About [delphivcl.Object](https://pythongui.org/learn-about-delphivcl-object-or-tobject/) or TObject
 
+111. Learn About [delphivcl.Page](https://pythongui.org/learn-about-delphivcl-page-or-tpage/) Or TPage
+
+112. More On [Built-In Function Objects](https://pythongui.org/more-on-built-in-function-objects-inside-delphivcl-library-part-3/) Inside DelphiVCL4Python Library (Part 3)
+
 Powered by [Embarcadero Delphi](https://www.embarcadero.com/products/delphi), [DelphiVCL4Python](https://github.com/Embarcadero/DelphiVCL4Python), and the [Python4Delphi library](https://github.com/pyscripter/python4delphi).
