@@ -218,4 +218,8 @@ Status: Deleted
 
 105. Learn About [delphivcl.Metafile](https://pythongui.org/learn-about-delphivcl-metafile/)
 
+106. This Is How [TShiftState](https://pythongui.org/this-is-how-tshiftstate-works-for-windows-app-development/) Works For Windows App Development
+
+107. 7 More [Built-In Function Objects](https://pythongui.org/7-more-built-in-function-objects-inside-delphivcl-library/) Inside DelphiVCL4Python Library
+
 Powered by [Embarcadero Delphi](https://www.embarcadero.com/products/delphi), [DelphiVCL4Python](https://github.com/Embarcadero/DelphiVCL4Python), and the [Python4Delphi library](https://github.com/pyscripter/python4delphi).
