@@ -238,4 +238,14 @@ Status: Deleted
 
 115. What Is [delphivcl.Picture](https://pythongui.org/what-is-delphivcl-picture-used-for-in-windows-development/) Used For In Windows Development?
 
+116. Learn About [delphivcl.Point](https://pythongui.org/learn-about-delphivcl-point/)
+
+117. More On [Built-In Function Objects](https://pythongui.org/more-on-built-in-function-objects-inside-delphivcl-library-part-4/) Inside DelphiVCL4Python Library (Part 4)
+
+118. Learn About [delphivcl.RadioButton](https://pythongui.org/learn-about-delphivcl-radiobutton-or-tradiobutton/) or TRadioButton
+
+119. What Is The [delphivcl.Screen](https://pythongui.org/what-is-the-delphivcl-screen-or-tscreen-object/) or TScreen Object?
+
+120. Learn About [delphivcl.ScrollBar](https://pythongui.org/learn-about-delphivcl-scrollbar-or-tscrollbar/) or TScrollBar
+
 Powered by [Embarcadero Delphi](https://www.embarcadero.com/products/delphi), [DelphiVCL4Python](https://github.com/Embarcadero/DelphiVCL4Python), and the [Python4Delphi library](https://github.com/pyscripter/python4delphi).
