@@ -222,4 +222,8 @@ Status: Deleted
 
 107. 7 More [Built-In Function Objects](https://pythongui.org/7-more-built-in-function-objects-inside-delphivcl-library/) Inside DelphiVCL4Python Library
 
+108. Learn About [delphivcl.Monitor](https://pythongui.org/learn-about-delphivcl-monitor-or-tmonitor/) or TMonitor
+
+109. Learn About [delphivcl.Notebook](https://pythongui.org/learn-about-delphivcl-notebook-or-tnotebook/) or TNotebook
+
 Powered by [Embarcadero Delphi](https://www.embarcadero.com/products/delphi), [DelphiVCL4Python](https://github.com/Embarcadero/DelphiVCL4Python), and the [Python4Delphi library](https://github.com/pyscripter/python4delphi).
