@@ -226,4 +226,6 @@ Status: Deleted
 
 109. Learn About [delphivcl.Notebook](https://pythongui.org/learn-about-delphivcl-notebook-or-tnotebook/) or TNotebook
 
+110. Learn About [delphivcl.Object](https://pythongui.org/learn-about-delphivcl-object-or-tobject/) or TObject
+
 Powered by [Embarcadero Delphi](https://www.embarcadero.com/products/delphi), [DelphiVCL4Python](https://github.com/Embarcadero/DelphiVCL4Python), and the [Python4Delphi library](https://github.com/pyscripter/python4delphi).
