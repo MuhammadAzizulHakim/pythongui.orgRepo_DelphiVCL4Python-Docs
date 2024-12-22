@@ -248,4 +248,24 @@ Status: Deleted
 
 120. Learn About [delphivcl.ScrollBar](https://pythongui.org/learn-about-delphivcl-scrollbar-or-tscrollbar/) or TScrollBar
 
+121. Learn About [TFillStyle](https://pythongui.org/learn-about-tfillstyle-with-pythons-delphivcl-windows-ui-toolkit/) with Python’s DelphiVCL4Python Windows UI toolkit
+
+122. More On [Built-In Function Objects](https://pythongui.org/more-on-built-in-function-objects-inside-delphivcl-library-part-5/) Inside DelphiVCL4Python Library (Part 5)
+
+123. What Is [TMonitorDefaultTo](https://pythongui.org/what-is-tmonitordefaultto-in-the-delphivcl-windows-ui-toolkit/) in The DelphiVCL4Python Windows UI Toolkit
+
+124. Learn About [delphivcl.Size](https://pythongui.org/learn-about-delphivcl-size/)
+
+125. Learn About [delphivcl.Rect](https://pythongui.org/learn-about-delphivcl-rect/)
+
+126. Learn About [delphivcl.SpeedButton](https://pythongui.org/learn-about-delphivcl-speedbutton/)
+
+127. Learn About [TGridDrawState](https://pythongui.org/learn-about-tgriddrawstate-for-gui-development-with-pythons-delphivcl/) for GUI Development with Python’s DelphiVCL
+
+128. Learn About [delphivcl.SpinButton](https://pythongui.org/learn-about-delphivcl-spinbutton/)
+
+129. Learn About [delphivcl.SpinEdit](https://pythongui.org/learn-about-delphivcl-spinedit/)
+
+130. Learn About [delphivcl.Splitter](https://pythongui.org/learn-about-delphivcl-splitter/)
+
 Powered by [Embarcadero Delphi](https://www.embarcadero.com/products/delphi), [DelphiVCL4Python](https://github.com/Embarcadero/DelphiVCL4Python), and the [Python4Delphi library](https://github.com/pyscripter/python4delphi).
