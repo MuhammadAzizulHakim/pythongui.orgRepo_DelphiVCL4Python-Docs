@@ -66,45 +66,45 @@ Here is the list of published articles:
 
 30. [.Left](https://pythongui.org/specify-components-left-properties-using-left/)
 
-31. Specify Component’s Top Properties using [.Top](https://pythongui.org/specify-components-top-properties-using-top/)
+31. [.Top](https://pythongui.org/specify-components-top-properties-using-top/)
 
-32. Specify Component’s Width Properties using [.Width](https://pythongui.org/specify-components-width-properties-using-width/)
+32. [.Width](https://pythongui.org/specify-components-width-properties-using-width/)
 
-33. Adding Set Properties to VCL Components using [.SetProps](https://pythongui.org/adding-set-properties-to-vcl-components-using-setprops/)
+33. [.SetProps](https://pythongui.org/adding-set-properties-to-vcl-components-using-setprops/)
 
-34. Entering Dates Or Times Using [delphivcl.DateTimePicker](https://pythongui.org/entering-dates-or-times-using-delphivcl-datetimepicker-or-tdatetimepicker-in-python/) Or TDateTimePicker In Python
+34. [delphivcl.DateTimePicker](https://pythongui.org/entering-dates-or-times-using-delphivcl-datetimepicker-or-tdatetimepicker-in-python/) Or TDateTimePicker
 
-35. Store And Manipulate Strings With [delphivcl.Strings](https://pythongui.org/store-and-manipulate-strings-with-delphivcl-strings-or-tstrings-in-python/) Or TStrings In Python
+35. [delphivcl.Strings](https://pythongui.org/store-and-manipulate-strings-with-delphivcl-strings-or-tstrings-in-python/) Or TStrings
 
-36. Discover [DelphiVCL4Python’s Available Shapes](https://pythongui.org/discover-delphi-vcls-available-shapes/)
+36. [DelphiVCL4Python’s Available Shapes](https://pythongui.org/discover-delphi-vcls-available-shapes/)
 
-37. Create A Drawing Space Using [delphivcl.Canvas](https://pythongui.org/create-a-drawing-space-using-delphivcl-canvas/)
+37. [delphivcl.Canvas](https://pythongui.org/create-a-drawing-space-using-delphivcl-canvas/)
 
-38. Create a Tabular Format with [delphivcl.DrawGrid](https://pythongui.org/create-a-tabular-format-with-delphivcl-drawgrid/)
+38. [delphivcl.DrawGrid](https://pythongui.org/create-a-tabular-format-with-delphivcl-drawgrid/)
 
-39. Python GUI: Create A ComboBox To Select A Color With [delphivcl.ColorBox](https://pythongui.org/python-gui-create-a-combobox-to-select-a-color-with-delphivcl-colorbox/)
+39. [delphivcl.ColorBox](https://pythongui.org/python-gui-create-a-combobox-to-select-a-color-with-delphivcl-colorbox/)
 
-40. Discover [DelphiVCL4Python’s Available Colors](https://pythongui.org/discover-delphi-vcls-available-colors/)
+40. [DelphiVCL4Python’s Available Colors](https://pythongui.org/discover-delphi-vcls-available-colors/)
 
-41. Fill Solid Shapes With [.Brush](https://pythongui.org/fill-solid-shapes-with-brush/)
+41. [.Brush](https://pythongui.org/fill-solid-shapes-with-brush/)
 
-42. Learn ColorBoxStyles from [delphivcl.ColorBox](https://pythongui.org/learn-colorboxstyles-from-delphivcl-colorbox/)
+42. [delphivcl.ColorBox](https://pythongui.org/learn-colorboxstyles-from-delphivcl-colorbox/)
 
-43. [OnClick](https://pythongui.org/onclick-event-in-delphivcl-library/) Event in DelphiVCL4Python Library
+43. [OnClick](https://pythongui.org/onclick-event-in-delphivcl-library/) Event
 
-44. [OnDblClick](https://pythongui.org/ondblclick-event-in-delphivcl-library/) Event in DelphiVCL4Python Library
+44. [OnDblClick](https://pythongui.org/ondblclick-event-in-delphivcl-library/) Event
 
-45. [OnChange](https://pythongui.org/onchange-event-in-delphivcl-library/) Event in DelphiVCL4Python Library
+45. [OnChange](https://pythongui.org/onchange-event-in-delphivcl-library/) Event
 
-46. [OnDrawCell](https://pythongui.org/ondrawcell-event-in-delphivcl-library/) Event in DelphiVCL4Python Library
+46. [OnDrawCell](https://pythongui.org/ondrawcell-event-in-delphivcl-library/) Event
 
-47. [OnSelectCell](https://pythongui.org/onselectcell-event-in-delphivcl-library/) Event in DelphiVCL4Python Library
+47. [OnSelectCell](https://pythongui.org/onselectcell-event-in-delphivcl-library/) Event
 
-48. [OnClose](https://pythongui.org/onclose-event-in-delphivcl-library/) Event in DelphiVCL4Python Library
+48. [OnClose](https://pythongui.org/onclose-event-in-delphivcl-library/) Event
 
-49. Write a String inside a Clipping Rectangle using [TextRect](https://pythongui.org/write-a-string-inside-a-clipping-rectangle-using-textrect/)
+49. [TextRect](https://pythongui.org/write-a-string-inside-a-clipping-rectangle-using-textrect/)
 
-50. How to use the [Parent](https://pythongui.org/how-to-use-the-parent-property/) Property
+50. [Parent](https://pythongui.org/how-to-use-the-parent-property/) Property
 
 51. How to use the [Caption](https://pythongui.org/how-to-use-the-caption-property/) Property
 
