@@ -28,43 +28,43 @@ Here is the list of published articles:
 
 <h3>DelphiVCL4Python API references</h3>
 
-12. Create a Very Basic Empty Form using [delphivcl.Form](https://pythongui.org/create-a-very-basic-empty-form-using-delphivcl-form/)
+12. [delphivcl.Form](https://pythongui.org/create-a-very-basic-empty-form-using-delphivcl-form/)
 
-13. Decipher the [delphivcl.Application](https://pythongui.org/decipher-the-delphivcl-application/)
+13. [delphivcl.Application](https://pythongui.org/decipher-the-delphivcl-application/)
 
-14. Create a Specific Component using [delphivcl.CreateComponent](https://pythongui.org/create-a-specific-component-using-delphivcl-createcomponent/)
+14. [delphivcl.CreateComponent](https://pythongui.org/create-a-specific-component-using-delphivcl-createcomponent/)
 
-15. Create a Main Panel using [delphivcl.Panel](https://pythongui.org/create-a-main-panel-using-delphivcl-panel-or-tpanel/) or TPanel
+15. [delphivcl.Panel](https://pythongui.org/create-a-main-panel-using-delphivcl-panel-or-tpanel/) or TPanel
 
-16. Using [delphivcl.PageControl](https://pythongui.org/using-delphivcl-pagecontrol-to-create-a-multiple-page/) to Create a Multiple Page
+16. [delphivcl.PageControl](https://pythongui.org/using-delphivcl-pagecontrol-to-create-a-multiple-page/)
 
-17. Using [delphivcl.TabSheet](https://pythongui.org/using-delphivcl-tabsheet-to-create-a-tabbed-page/) to Create a Tabbed Page
+17. [delphivcl.TabSheet](https://pythongui.org/using-delphivcl-tabsheet-to-create-a-tabbed-page/)
 
-18. Display Text on a Form using [delphivcl.Label](https://pythongui.org/display-text-on-a-form-using-delphivcl-label-or-tlabel/) or TLabel
+18. [delphivcl.Label](https://pythongui.org/display-text-on-a-form-using-delphivcl-label-or-tlabel/) or TLabel
 
-19. Create an Edit Controls using [delphivcl.Edit](https://pythongui.org/create-an-edit-controls-using-delphivcl-edit-or-tedit/) or TEdit
+19. [delphivcl.Edit](https://pythongui.org/create-an-edit-controls-using-delphivcl-edit-or-tedit/) or TEdit
 
-20. Create a CheckBox using [delphivcl.CheckBox](https://pythongui.org/create-a-checkbox-using-delphivcl-checkbox/)
+20. [delphivcl.CheckBox](https://pythongui.org/create-a-checkbox-using-delphivcl-checkbox/)
 
-21. Create a ListBox using [delphivcl.ListBox](https://pythongui.org/create-a-listbox-using-delphivcl-listbox/)
+21. [delphivcl.ListBox](https://pythongui.org/create-a-listbox-using-delphivcl-listbox/)
 
-22. Create a ComboBox using [delphivcl.ComboBox](https://pythongui.org/create-a-combobox-using-delphivcl-combobox/)
+22. [delphivcl.ComboBox](https://pythongui.org/create-a-combobox-using-delphivcl-combobox/)
 
-23. Learn about [delphivcl.RadioGroup](https://pythongui.org/learn-about-delphivcl-radiogroup/)
+23. [delphivcl.RadioGroup](https://pythongui.org/learn-about-delphivcl-radiogroup/)
 
-24. Learn Buttons Using [delphivcl.Button](https://pythongui.org/learn-buttons-using-delphivcl-button/)
+24. [delphivcl.Button](https://pythongui.org/learn-buttons-using-delphivcl-button/)
 
-25. Create a Multiline Edit Control on a Form using [delphivcl.Memo](https://pythongui.org/create-a-multiline-edit-control-on-a-form-using-delphivcl-memo/)
+25. [delphivcl.Memo](https://pythongui.org/create-a-multiline-edit-control-on-a-form-using-delphivcl-memo/)
 
-26. Python Windows App: Draw A Rectangle With [delphivcl.Shape](https://pythongui.org/python-windows-app-draw-a-rectangle-with-delphivcl-shape/)
+26. [delphivcl.Shape](https://pythongui.org/python-windows-app-draw-a-rectangle-with-delphivcl-shape/)
 
-27. Add Strings to Various Components using [.Items](https://pythongui.org/add-strings-to-various-components-using-items/)
+27. [.Items](https://pythongui.org/add-strings-to-various-components-using-items/)
 
-28. Specify Component’s Boundary Properties using [.SetBounds](https://pythongui.org/specify-components-boundary-properties-using-setbounds/)
+28. [.SetBounds](https://pythongui.org/specify-components-boundary-properties-using-setbounds/)
 
-29. Specify Component’s Height Properties using [.Height](https://pythongui.org/specify-components-height-properties-using-height/)
+29. [.Height](https://pythongui.org/specify-components-height-properties-using-height/)
 
-30. Specify Component’s Left Properties using [.Left](https://pythongui.org/specify-components-left-properties-using-left/)
+30. [.Left](https://pythongui.org/specify-components-left-properties-using-left/)
 
 31. Specify Component’s Top Properties using [.Top](https://pythongui.org/specify-components-top-properties-using-top/)
 
