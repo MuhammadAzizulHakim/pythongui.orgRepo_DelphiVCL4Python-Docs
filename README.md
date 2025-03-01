@@ -106,25 +106,25 @@ Here is the list of published articles:
 
 50. [Parent](https://pythongui.org/how-to-use-the-parent-property/) Property
 
-51. How to use the [Caption](https://pythongui.org/how-to-use-the-caption-property/) Property
+51. [Caption](https://pythongui.org/how-to-use-the-caption-property/) Property
 
-52. How to use the [Text](https://pythongui.org/how-to-use-the-text-property/) Property
+52. [Text](https://pythongui.org/how-to-use-the-text-property/) Property
 
-53. What Is The [Lines](https://pythongui.org/what-is-the-lines-property-and-how-do-i-use-it/) Property And How Do I Use It?
+53. [Lines](https://pythongui.org/what-is-the-lines-property-and-how-do-i-use-it/) Property
 
-54. How to use the [Title](https://pythongui.org/how-to-use-the-title-property/) Property
+54. [delphivcl.Application.Title](https://pythongui.org/how-to-use-the-title-property/) Property
 
-55. How to Change the [Font](https://pythongui.org/how-to-change-the-font-attributes/) Attributes
+55. [Font](https://pythongui.org/how-to-change-the-font-attributes/) Attributes
 
-56. How to use the [Show](https://pythongui.org/how-to-use-the-show-method-for-delphivcl-applications/) Method for DelphiVCL4Python Applications
+56. [delphivcl.Application.Show](https://pythongui.org/how-to-use-the-show-method-for-delphivcl-applications/) Method
 
-57. How to use the [delphivcl.Application.Run](https://pythongui.org/how-to-use-the-delphivcl-application-run-property/) Method
+57. [delphivcl.Application.Run](https://pythongui.org/how-to-use-the-delphivcl-application-run-property/) Method
 
-58. How to use the [delphivcl.Application.Destroy](https://pythongui.org/how-to-use-the-delphivcl-application-destroy-property/) Destructor
+58. [delphivcl.Application.Destroy](https://pythongui.org/how-to-use-the-delphivcl-application-destroy-property/) Destructor
 
-59. What Is The DelphiVCL4Python [Sender](https://pythongui.org/what-is-the-the-delphivcl-sender-property/) Property?
+59. [Sender](https://pythongui.org/what-is-the-the-delphivcl-sender-property/) Property
 
-60. How to use the [delphivcl.DrawGrid.Col](https://pythongui.org/how-to-use-the-delphivcl-drawgrid-col/)
+60. [delphivcl.DrawGrid.Col](https://pythongui.org/how-to-use-the-delphivcl-drawgrid-col/)
 
 61. How to use the [delphivcl.DrawGrid.Row](https://pythongui.org/how-to-use-the-delphivcl-drawgrid-row/)
 
